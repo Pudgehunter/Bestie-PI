@@ -1,0 +1,589 @@
+/* screen - producto-vista-cliente-overlay */
+
+.producto-vista-cliente-overlay {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.producto-vista-cliente-overlay .rectangle-31-3qfxhz {
+  background-color: transparent;
+  height: 152px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.producto-vista-cliente-overlay .status-bar-i-phone-13-13-pro-3qfxhz {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.producto-vista-cliente-overlay .indicators-Do7aHv {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.producto-vista-cliente-overlay .elements-signal-t1HOja {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.producto-vista-cliente-overlay .cellular-connection-TPg3xp {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.producto-vista-cliente-overlay .elements-connection-t1HOja {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.producto-vista-cliente-overlay .wifi-MGMWEx {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.producto-vista-cliente-overlay .elements-battery-t1HOja {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.producto-vista-cliente-overlay .border-FiVzex {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.producto-vista-cliente-overlay .cap-FiVzex {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.producto-vista-cliente-overlay .capacity-FiVzex {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.producto-vista-cliente-overlay .mic-cam-Do7aHv {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.producto-vista-cliente-overlay .elements-time-Do7aHv {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.producto-vista-cliente-overlay .time-MZ4St6 {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.producto-vista-cliente-overlay .anillo-curvy-3qfxhz {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 511px;
+  width: 316px;
+}
+
+.producto-vista-cliente-overlay .cop-45000-3qfxhz {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 577px;
+  white-space: nowrap;
+  width: 316px;
+}
+
+.producto-vista-cliente-overlay .anillo-de-plata-ajus-3qfxhz {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 538px;
+  width: 316px;
+}
+
+.producto-vista-cliente-overlay .group-230-3qfxhz {
+  background-color: transparent;
+  height: 38px;
+  left: 28px;
+  position: absolute;
+  top: 633px;
+  width: 334px;
+}
+
+.producto-vista-cliente-overlay .rectangle-6-1LE7mH {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 334px;
+}
+
+.producto-vista-cliente-overlay .enviar-1LE7mH {
+  background-color: transparent;
+  height: 38px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 289px;
+}
+
+.producto-vista-cliente-overlay .group-275-3qfxhz {
+  background-color: transparent;
+  height: 38px;
+  left: 28px;
+  position: absolute;
+  top: 681px;
+  width: 334px;
+}
+
+.producto-vista-cliente-overlay .rectangle-6-efyBFC {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 334px;
+}
+
+.producto-vista-cliente-overlay .enviar-efyBFC {
+  background-color: transparent;
+  height: 38px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 289px;
+}
+
+.producto-vista-cliente-overlay .vector-3qfxhz {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 178px;
+  width: 9px;
+}
+
+.producto-vista-cliente-overlay .productos-3qfxhz {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 19.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 176px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.producto-vista-cliente-overlay .blink-custom-jewels-3qfxhz {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.producto-vista-cliente-overlay .somos-una-empresa-su-3qfxhz {
+  background-color: transparent;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 101px;
+  width: 301px;
+}
+
+.producto-vista-cliente-overlay .cart-3qfxhz {
+  background-color: transparent;
+  height: 24px;
+  left: 338px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 175px;
+  width: 24px;
+}
+
+.producto-vista-cliente-overlay .vector-39-PA9x94 {
+  background-color: transparent;
+  height: 18px;
+  left: -0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.producto-vista-cliente-overlay .ellipse-36-PA9x94 {
+  background-color: transparent;
+  border-radius: 2.02px;
+  height: 4px;
+  left: 7px;
+  position: absolute;
+  top: 19px;
+  width: 4px;
+}
+
+.producto-vista-cliente-overlay .ellipse-37-PA9x94 {
+  background-color: transparent;
+  border-radius: 2.02px;
+  height: 4px;
+  left: 19px;
+  position: absolute;
+  top: 19px;
+  width: 4px;
+}
+
+.producto-vista-cliente-overlay .frame-83-3qfxhz::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.producto-vista-cliente-overlay .frame-83-3qfxhz {
+  background-color: transparent;
+  height: 280px;
+  left: 18px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 209px;
+  width: 372px;
+}
+
+.producto-vista-cliente-overlay .group-274-u1BVrh {
+  background-color: transparent;
+  height: 260px;
+  left: 280px;
+  position: absolute;
+  top: 8px;
+  width: 260px;
+}
+
+.producto-vista-cliente-overlay .rectangle-1338-MSQNuJ {
+  background-color: transparent;
+  height: 260px;
+  left: 84px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 92px;
+}
+
+.producto-vista-cliente-overlay .rectangle-1342-u1BVrh {
+  background-color: transparent;
+  height: 260px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 261px;
+}
+
+.producto-vista-cliente-overlay .nav-client-3qfxhz {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.producto-vista-cliente-overlay .rectangle-1462-RcqsWs {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.producto-vista-cliente-overlay .union-RcqsWs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.producto-vista-cliente-overlay .union-qXTCIA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.producto-vista-cliente-overlay .union-G0kxC7 {
+  background-color: transparent;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.producto-vista-cliente-overlay .union-XEE04D {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.producto-vista-cliente-overlay .union-V2x8hW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.producto-vista-cliente-overlay .producto-vista-cliente-3qfxhz {
+  background-color: transparent;
+  height: 769px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.producto-vista-cliente-overlay .rectangle-1315-SfQlUL {
+  background-color: transparent;
+  height: 1px;
+  left: 194px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 428px;
+  width: 1px;
+}
+
+.producto-vista-cliente-overlay .rectangle-1389-SfQlUL {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: var(--mist-gray-3);
+  height: 844px;
+  left: -5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 399px;
+}
+
+.producto-vista-cliente-overlay .group-367-SfQlUL {
+  background-color: transparent;
+  height: 118px;
+  left: 21px;
+  position: absolute;
+  top: 363px;
+  width: 355px;
+}
+
+.producto-vista-cliente-overlay .rectangle-1316-1dfUYQ {
+  background-color: var(--cielo);
+  border-radius: 10px;
+  height: 118px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 349px;
+}
+
+.producto-vista-cliente-overlay .producto-aadido-1dfUYQ {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: 316px;
+}
+
+.producto-vista-cliente-overlay .rectangle-1320-1dfUYQ {
+  background-color: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 42px;
+  left: 14px;
+  position: absolute;
+  top: 50px;
+  width: 157px;
+}
+
+.producto-vista-cliente-overlay .rectangle-1321-1dfUYQ {
+  background-color: var(--white);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 42px;
+  left: 178px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 50px;
+  width: 157px;
+}
+
+.producto-vista-cliente-overlay .ver-carrito-1dfUYQ {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  width: 157px;
+}
+
+.producto-vista-cliente-overlay .seguir-comprando-1dfUYQ {
+  background-color: transparent;
+  color: var(--cielo-osc);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 178px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  width: 157px;
+}

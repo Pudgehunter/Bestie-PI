@@ -1,0 +1,735 @@
+/* screen - index-registrar */
+
+.index-registrar {
+  background-color: var(--cielo);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.index-registrar .group-1968-q4x4aW {
+  background-color: transparent;
+  height: 499px;
+  left: -24px;
+  position: absolute;
+  top: 75px;
+  width: 227px;
+}
+
+.index-registrar .union-5ueYGm {
+  background-color: transparent;
+  height: 50px;
+  left: 110px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 437px;
+  width: 68px;
+}
+
+.index-registrar .union-3YJ1pC {
+  background-color: transparent;
+  height: 68px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 398px;
+  width: 42px;
+}
+
+.index-registrar .vector-59-5ueYGm {
+  background-color: transparent;
+  height: 168px;
+  left: 32px;
+  position: absolute;
+  top: 250px;
+  width: 67px;
+}
+
+.index-registrar .vector-67-5ueYGm {
+  background-color: transparent;
+  height: 175px;
+  left: 28px;
+  position: absolute;
+  top: 245px;
+  width: 74px;
+}
+
+.index-registrar .vector-58-5ueYGm {
+  background-color: transparent;
+  height: 172px;
+  left: 112px;
+  position: absolute;
+  top: 267px;
+  width: 38px;
+}
+
+.index-registrar .vector-34-5ueYGm {
+  background-color: transparent;
+  height: 132px;
+  left: 107px;
+  position: absolute;
+  top: 50px;
+  width: 115px;
+}
+
+.index-registrar .intersect-5ueYGm {
+  background-color: transparent;
+  height: 31px;
+  left: 179px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 50px;
+  width: 35px;
+}
+
+.index-registrar .intersect-3YJ1pC {
+  background-color: transparent;
+  height: 30px;
+  left: 187px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 70px;
+  width: 36px;
+}
+
+.index-registrar .intersect-4gK2jv {
+  background-color: transparent;
+  height: 17px;
+  left: 188px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 99px;
+  width: 36px;
+}
+
+.index-registrar .intersect-vZxdmA {
+  background-color: transparent;
+  height: 31px;
+  left: 184px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 110px;
+  width: 35px;
+}
+
+.index-registrar .intersect-DB2e1i {
+  background-color: transparent;
+  height: 37px;
+  left: 170px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 125px;
+  width: 31px;
+}
+
+.index-registrar .intersect-B1ALx9 {
+  background-color: transparent;
+  height: 39px;
+  left: 152px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 136px;
+  width: 28px;
+}
+
+.index-registrar .ellipse-122-5ueYGm {
+  background-color: transparent;
+  height: 157px;
+  left: 48px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 133px;
+  width: 118px;
+}
+
+.index-registrar .intersect-4Q0FMd {
+  background-color: transparent;
+  height: 48px;
+  left: 50px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 243px;
+  width: 113px;
+}
+
+.index-registrar .intersect-dYIexo {
+  background-color: transparent;
+  height: 33px;
+  left: 49px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 172px;
+  width: 116px;
+}
+
+.index-registrar .intersect-Np4UjO {
+  background-color: transparent;
+  height: 31px;
+  left: 48px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 212px;
+  width: 118px;
+}
+
+.index-registrar .intersect-CunYux {
+  background-color: transparent;
+  height: 27px;
+  left: 64px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 138px;
+  width: 85px;
+}
+
+.index-registrar .vector-45-5ueYGm {
+  background-color: transparent;
+  height: 15px;
+  left: 53px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 240px;
+  width: 112px;
+}
+
+.index-registrar .vector-44-5ueYGm {
+  background-color: transparent;
+  height: 24px;
+  left: 51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 240px;
+  width: 116px;
+}
+
+.index-registrar .intersect-0jsEmD {
+  background-color: transparent;
+  height: 147px;
+  left: 20px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 154px;
+  width: 62px;
+}
+
+.index-registrar .intersect-zxHSmK {
+  background-color: transparent;
+  height: 151px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 150px;
+  width: 58px;
+}
+
+.index-registrar .intersect-5vqVZk {
+  background-color: transparent;
+  height: 28px;
+  left: 33px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 255px;
+  width: 43px;
+}
+
+.index-registrar .intersect-ZMNIVA {
+  background-color: transparent;
+  height: 23px;
+  left: 22px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 237px;
+  width: 38px;
+}
+
+.index-registrar .intersect-Vsce4o {
+  background-color: transparent;
+  height: 22px;
+  left: 21px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 213px;
+  width: 31px;
+}
+
+.index-registrar .intersect-VNVkNN {
+  background-color: transparent;
+  height: 28px;
+  left: 22px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 185px;
+  width: 34px;
+}
+
+.index-registrar .intersect-7uacgF {
+  background-color: transparent;
+  height: 32px;
+  left: 34px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 162px;
+  width: 35px;
+}
+
+.index-registrar .intersect-ccSG04 {
+  background-color: transparent;
+  height: 34px;
+  left: 55px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 150px;
+  width: 25px;
+}
+
+.index-registrar .vector-35-5ueYGm {
+  background-color: transparent;
+  height: 35px;
+  left: 173px;
+  position: absolute;
+  top: 40px;
+  width: 37px;
+}
+
+.index-registrar .vector-55-5ueYGm {
+  background-color: transparent;
+  height: 32px;
+  left: 48px;
+  position: absolute;
+  top: 270px;
+  width: 36px;
+}
+
+.index-registrar .ellipse-145-5ueYGm {
+  background-color: transparent;
+  height: 85px;
+  left: 60px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 120px;
+  width: 77px;
+}
+
+.index-registrar .intersect-cx7SkK {
+  background-color: transparent;
+  height: 73px;
+  left: 117px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 102px;
+  width: 90px;
+}
+
+.index-registrar .group-1966-5ueYGm {
+  background-color: transparent;
+  height: 87px;
+  left: 69px;
+  position: absolute;
+  top: 41px;
+  width: 80px;
+}
+
+.index-registrar .group-1965-5ueYGm {
+  background-color: transparent;
+  height: 75px;
+  left: 118px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.index-registrar .vector-46-9HcqM3 {
+  background-color: transparent;
+  height: 39px;
+  left: -4px;
+  position: absolute;
+  top: 11px;
+  width: 54px;
+}
+
+.index-registrar .vector-47-9HcqM3 {
+  background-color: transparent;
+  height: 52px;
+  left: 5px;
+  position: absolute;
+  top: -7px;
+  width: 50px;
+}
+
+.index-registrar .rectangle-157-9HcqM3 {
+  background-color: transparent;
+  height: 56px;
+  left: 33px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 11px;
+  width: 53px;
+}
+
+.index-registrar .union-9HcqM3 {
+  background-color: transparent;
+  height: 62px;
+  left: 37px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 7px;
+  width: 36px;
+}
+
+.index-registrar .union-oYZgx5 {
+  background-color: transparent;
+  height: 52px;
+  left: 34px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 14px;
+  width: 35px;
+}
+
+.index-registrar .vector-48-9HcqM3 {
+  background-color: transparent;
+  height: 34px;
+  left: 38px;
+  position: absolute;
+  top: 12px;
+  width: 19px;
+}
+
+.index-registrar .vector-49-9HcqM3 {
+  background-color: transparent;
+  height: 29px;
+  left: 50px;
+  position: absolute;
+  top: 9px;
+  width: 18px;
+}
+
+.index-registrar .vector-50-9HcqM3 {
+  background-color: transparent;
+  height: 36px;
+  left: 42px;
+  position: absolute;
+  top: 27px;
+  width: 21px;
+}
+
+.index-registrar .ellipse-151-5ueYGm {
+  background-color: transparent;
+  height: 85px;
+  left: 171px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 36px;
+  width: 72px;
+}
+
+.index-registrar .vector-60-5ueYGm {
+  background-color: transparent;
+  height: 41px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 380px;
+  width: 48px;
+}
+
+.index-registrar .vector-61-5ueYGm {
+  background-color: transparent;
+  height: 16px;
+  left: 110px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 427px;
+  width: 42px;
+}
+
+.index-registrar .ellipse-156-5ueYGm {
+  background-color: transparent;
+  height: 14px;
+  left: 145px;
+  position: absolute;
+  top: 10px;
+  width: 15px;
+}
+
+.index-registrar .ellipse-157-5ueYGm {
+  background-color: transparent;
+  height: 8px;
+  left: 170px;
+  position: absolute;
+  top: 17px;
+  width: 16px;
+}
+
+.index-registrar .vector-63-5ueYGm {
+  background-color: transparent;
+  height: 72px;
+  left: 16px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 391px;
+  width: 24px;
+}
+
+.index-registrar .vector-64-5ueYGm {
+  background-color: transparent;
+  height: 52px;
+  left: 103px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 440px;
+  width: 57px;
+}
+
+.index-registrar .vector-65-5ueYGm {
+  background-color: transparent;
+  height: 50px;
+  left: 32px;
+  mix-blend-mode: hard-light;
+  position: absolute;
+  top: 405px;
+  width: 38px;
+}
+
+.index-registrar .vector-66-5ueYGm {
+  background-color: transparent;
+  height: 38px;
+  left: 124px;
+  mix-blend-mode: hard-light;
+  position: absolute;
+  top: 435px;
+  width: 54px;
+}
+
+.index-registrar .group-1970-5ueYGm {
+  background-color: transparent;
+  height: 68px;
+  left: 50px;
+  position: absolute;
+  top: 268px;
+  transform: rotate(-3.00deg);
+  width: 77px;
+}
+
+.index-registrar .group-1969-8h7hU6 {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(-6.00deg);
+  width: 77px;
+}
+
+.index-registrar .group-1967-fipT8e {
+  background-color: transparent;
+  height: 75px;
+  left: -3px;
+  position: absolute;
+  top: -0px;
+  transform: rotate(-3.00deg);
+  width: 82px;
+}
+
+.index-registrar .vector-68-fipT8e {
+  background-color: transparent;
+  height: 31px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24px;
+  transform: rotate(-3.00deg);
+  width: 28px;
+}
+
+.index-registrar .vector-44-8h7hU6 {
+  background-color: transparent;
+  height: 10px;
+  left: 47px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  transform: rotate(-3.00deg);
+  width: 14px;
+}
+
+.index-registrar .vector-68-8h7hU6 {
+  background-color: transparent;
+  height: 10px;
+  left: 41px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  transform: rotate(-3.00deg);
+  width: 14px;
+}
+
+.index-registrar .vector-69-8h7hU6 {
+  background-color: transparent;
+  height: 10px;
+  left: 33px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  transform: rotate(-3.00deg);
+  width: 14px;
+}
+
+.index-registrar .vector-70-8h7hU6 {
+  background-color: transparent;
+  height: 10px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 47px;
+  transform: rotate(-3.00deg);
+  width: 14px;
+}
+
+.index-registrar .bestie-q4x4aW {
+  background-color: transparent;
+  height: 74px;
+  left: 84px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 231px;
+  width: 221px;
+}
+
+.index-registrar .rectangle-1466-q4x4aW {
+  background-color: var(--mist-gray-3);
+  height: 844px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.index-registrar .rectangle-1316-q4x4aW {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 252px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 330px;
+  width: 336px;
+}
+
+.index-registrar .vas-a-iniciar-sesin-q4x4aW {
+  background-color: transparent;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 363px;
+  width: 251px;
+}
+
+.index-registrar .span0-8u8J0k {
+}
+
+.index-registrar .span1-8u8J0k {
+}
+
+.index-registrar .span2-8u8J0k {
+}
+
+.index-registrar .rectangle-1320-q4x4aW {
+  background-color: var(--cielo);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 42px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 425px;
+  width: 269px;
+}
+
+.index-registrar .emprendedor-q4x4aW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 423px;
+  width: 116px;
+}
+
+.index-registrar .rectangle-1321-q4x4aW {
+  background-color: var(--cielo);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 42px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 491px;
+  width: 269px;
+}
+
+.index-registrar .cliente-q4x4aW {
+  background-color: transparent;
+  height: 44px;
+  left: 155px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 488px;
+  width: 81px;
+}
+
+.index-registrar .group-370-q4x4aW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 29px;
+  position: absolute;
+  top: 33px;
+  width: 85px;
+}
+
+.index-registrar .group-371-MXDm4x {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 87px;
+}
+
+.index-registrar .regresar-ciV9QK {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.index-registrar .vector-ciV9QK {
+  background-color: transparent;
+  height: 16px;
+  left: -2px;
+  position: absolute;
+  top: -0px;
+  width: 9px;
+}

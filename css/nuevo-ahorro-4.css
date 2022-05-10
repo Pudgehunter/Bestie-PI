@@ -1,0 +1,402 @@
+/* screen - nuevo-ahorro-4 */
+
+.nuevo-ahorro-4 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.nuevo-ahorro-4 .status-bar-i-phone-13-13-pro-Gvp5xG {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.nuevo-ahorro-4 .indicators-bJnejy {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.nuevo-ahorro-4 .elements-signal-VLLkt9 {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.nuevo-ahorro-4 .cellular-connection-KuP7z6 {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.nuevo-ahorro-4 .elements-connection-VLLkt9 {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.nuevo-ahorro-4 .wifi-OQfxFv {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.nuevo-ahorro-4 .elements-battery-VLLkt9 {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.nuevo-ahorro-4 .border-cbhKjm {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.nuevo-ahorro-4 .cap-cbhKjm {
+  background-color: transparent;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.nuevo-ahorro-4 .capacity-cbhKjm {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.nuevo-ahorro-4 .mic-cam-bJnejy {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.nuevo-ahorro-4 .elements-time-bJnejy {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.nuevo-ahorro-4 .time-MxioEQ {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.nuevo-ahorro-4 .nombre-del-plan-Gvp5xG {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 364px;
+  width: 285px;
+}
+
+.nuevo-ahorro-4 .impresorita-laser-linda-Gvp5xG {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 387px;
+  width: 285px;
+}
+
+.nuevo-ahorro-4 .line-2-Gvp5xG {
+  background-color: transparent;
+  height: 1px;
+  left: 18px;
+  position: absolute;
+  top: 408px;
+  width: 354px;
+}
+
+.nuevo-ahorro-4 .cantidad-a-ahorrar-Gvp5xG {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 427px;
+  width: 285px;
+}
+
+.nuevo-ahorro-4 .x1500000-Gvp5xG {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 450px;
+  width: 285px;
+}
+
+.nuevo-ahorro-4 .line-3-Gvp5xG {
+  background-color: transparent;
+  height: 1px;
+  left: 18px;
+  position: absolute;
+  top: 471px;
+  width: 354px;
+}
+
+.nuevo-ahorro-4 .tiempo-lmite-estimado-Gvp5xG {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 488px;
+  width: 285px;
+}
+
+.nuevo-ahorro-4 .x24102022-Gvp5xG {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 511px;
+  width: 285px;
+}
+
+.nuevo-ahorro-4 .line-4-Gvp5xG {
+  background-color: transparent;
+  height: 1px;
+  left: 18px;
+  position: absolute;
+  top: 532px;
+  width: 354px;
+}
+
+.nuevo-ahorro-4 .group-293-Gvp5xG {
+  background-color: transparent;
+  height: 38px;
+  left: 18px;
+  position: absolute;
+  top: 714px;
+  width: 354px;
+}
+
+.nuevo-ahorro-4 .rectangle-6-5kHfnf {
+  background-color: transparent;
+  height: 38px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 354px;
+}
+
+.nuevo-ahorro-4 .group-313-5kHfnf {
+  background-color: transparent;
+  height: 14px;
+  left: 77px;
+  position: absolute;
+  top: 10px;
+  width: 201px;
+}
+
+.nuevo-ahorro-4 .crear-nuevo-plan-de-ahorro-ZwMB9d {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 185px;
+}
+
+.nuevo-ahorro-4 .union-ZwMB9d {
+  background-color: transparent;
+  height: 10px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.nuevo-ahorro-4 .we-are-caotic-nuevo-ahorro-Gvp5xG {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.nuevo-ahorro-4 .span0-Dz8qGT {
+}
+
+.nuevo-ahorro-4 .span1-Dz8qGT {
+}
+
+.nuevo-ahorro-4 .image-40-Gvp5xG {
+  background-color: transparent;
+  height: 237px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 106px;
+  width: 390px;
+}
+
+.nuevo-ahorro-4 .nav-emprendimiento-Gvp5xG {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.nuevo-ahorro-4 .rectangle-1463-9dUNDk {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.nuevo-ahorro-4 .union-9dUNDk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 226px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.nuevo-ahorro-4 .union-jq0Fha {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.nuevo-ahorro-4 .union-2upgjf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.nuevo-ahorro-4 .union-QJGZKu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.nuevo-ahorro-4 .vector-Gvp5xG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 19px;
+  position: absolute;
+  top: 62px;
+  width: 9px;
+}

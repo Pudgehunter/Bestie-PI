@@ -1,0 +1,511 @@
+/* screen - anadir-dinero-a-ahorro6 */
+
+.anadir-dinero-a-ahorro6 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.anadir-dinero-a-ahorro6 .nav-emprendimiento-hOyoGD {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 770px;
+  width: 390px;
+}
+
+.anadir-dinero-a-ahorro6 .rectangle-1463-x6pW8B {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.anadir-dinero-a-ahorro6 .union-x6pW8B {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.anadir-dinero-a-ahorro6 .union-s365fD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.anadir-dinero-a-ahorro6 .union-D997yI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.anadir-dinero-a-ahorro6 .union-CZc4jl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.anadir-dinero-a-ahorro6 .aadir-dinero-a-mi-ahorro-hOyoGD {
+  background-color: transparent;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.anadir-dinero-a-ahorro6 .vector-hOyoGD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 108px;
+  width: 9px;
+}
+
+.anadir-dinero-a-ahorro6 .rectangle-8-hOyoGD {
+  background-color: transparent;
+  height: 72px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.anadir-dinero-a-ahorro6 .image-24-hOyoGD {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.anadir-dinero-a-ahorro6 .status-bar-i-phone-13-13-pro-hOyoGD {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.anadir-dinero-a-ahorro6 .indicators-xAU9w6 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.anadir-dinero-a-ahorro6 .elements-signal-L5wUx9 {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.anadir-dinero-a-ahorro6 .cellular-connection-iXKhA9 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.anadir-dinero-a-ahorro6 .elements-connection-L5wUx9 {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.anadir-dinero-a-ahorro6 .wifi-dQyktQ {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.anadir-dinero-a-ahorro6 .elements-battery-L5wUx9 {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.anadir-dinero-a-ahorro6 .border-xvxfRP {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.anadir-dinero-a-ahorro6 .cap-xvxfRP {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.anadir-dinero-a-ahorro6 .capacity-xvxfRP {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.anadir-dinero-a-ahorro6 .mic-cam-xAU9w6 {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.anadir-dinero-a-ahorro6 .elements-time-xAU9w6 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.anadir-dinero-a-ahorro6 .time-ewpLRS {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.anadir-dinero-a-ahorro6 .dinero-actual-en-el-plan-de-ahorro-hOyoGD {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 169px;
+  width: 166px;
+}
+
+.anadir-dinero-a-ahorro6 .x138400-hOyoGD {
+  background-color: transparent;
+  height: auto;
+  left: 269px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 186px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.anadir-dinero-a-ahorro6 .x7322000-hOyoGD {
+  background-color: transparent;
+  height: auto;
+  left: 269px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 317px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.anadir-dinero-a-ahorro6 .restante-para-completar-el-plan-hOyoGD {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 300px;
+  width: 182px;
+}
+
+.anadir-dinero-a-ahorro6 .origen-del-dinero-hOyoGD {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 361px;
+  white-space: nowrap;
+  width: 182px;
+}
+
+.anadir-dinero-a-ahorro6 .bolsillo-sueos-hOyoGD {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 386px;
+  white-space: nowrap;
+  width: 182px;
+}
+
+.anadir-dinero-a-ahorro6 .dinero-a-aadir-hOyoGD {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 223px;
+  white-space: nowrap;
+  width: 182px;
+}
+
+.anadir-dinero-a-ahorro6 .total-hOyoGD {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 261px;
+  white-space: nowrap;
+  width: 182px;
+}
+
+.anadir-dinero-a-ahorro6 .x2380000-hOyoGD {
+  background-color: transparent;
+  height: auto;
+  left: 177px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 261px;
+  white-space: nowrap;
+  width: 182px;
+}
+
+.anadir-dinero-a-ahorro6 .vector-115-hOyoGD {
+  background-color: transparent;
+  height: 1px;
+  left: 30px;
+  position: absolute;
+  top: 251px;
+  width: 329px;
+}
+
+.anadir-dinero-a-ahorro6 .vector-117-hOyoGD {
+  background-color: transparent;
+  height: 1px;
+  left: 30px;
+  position: absolute;
+  top: 287px;
+  width: 329px;
+}
+
+.anadir-dinero-a-ahorro6 .vector-118-hOyoGD {
+  background-color: transparent;
+  height: 1px;
+  left: 30px;
+  position: absolute;
+  top: 349px;
+  width: 329px;
+}
+
+.anadir-dinero-a-ahorro6 .rectangle-1418-hOyoGD {
+  background-color: var(--cielo);
+  border-radius: 3px;
+  height: 23px;
+  left: 336px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 218px;
+  width: 23px;
+}
+
+.anadir-dinero-a-ahorro6 .rectangle-1420-hOyoGD {
+  background-color: var(--cielo);
+  border-radius: 3px;
+  height: 23px;
+  left: 209px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 218px;
+  width: 23px;
+}
+
+.anadir-dinero-a-ahorro6 .rectangle-1419-hOyoGD {
+  background-color: var(--cielo-claro);
+  border-radius: 3px;
+  height: 23px;
+  left: 238px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 218px;
+  width: 92px;
+}
+
+.anadir-dinero-a-ahorro6 .union-hOyoGD {
+  background-color: transparent;
+  height: 12px;
+  left: 342px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 224px;
+  width: 12px;
+}
+
+.anadir-dinero-a-ahorro6 .union-yLRorp {
+  background-color: transparent;
+  height: 2px;
+  left: 215px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 228px;
+  width: 12px;
+}
+
+.anadir-dinero-a-ahorro6 .x100000-hOyoGD {
+  background-color: transparent;
+  height: auto;
+  left: 246px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 220px;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.anadir-dinero-a-ahorro6 .group-293-hOyoGD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 19px;
+  position: absolute;
+  top: 711px;
+  width: 354px;
+}
+
+.anadir-dinero-a-ahorro6 .rectangle-6-DjduGH {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 354px;
+}
+
+.anadir-dinero-a-ahorro6 .group-313-DjduGH {
+  background-color: transparent;
+  height: 14px;
+  left: 91px;
+  position: absolute;
+  top: 10px;
+  width: 187px;
+}
+
+.anadir-dinero-a-ahorro6 .confirmar-qUVkfV {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 185px;
+}

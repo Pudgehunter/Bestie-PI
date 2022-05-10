@@ -1,0 +1,438 @@
+/* screen - registro-cliente-5 */
+
+.registro-cliente-5 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.registro-cliente-5 .vector-1-dSjxBP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 24px;
+  position: absolute;
+  top: 48px;
+  width: 10px;
+}
+
+.registro-cliente-5 .rectangle-34-dSjxBP {
+  background-color: transparent;
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  position: absolute;
+  top: 50px;
+  width: 298px;
+}
+
+.registro-cliente-5 .rectangle-35-dSjxBP {
+  background-color: var(--cielo);
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 50px;
+  width: 290px;
+}
+
+.registro-cliente-5 .ya-casi-terminamos-dSjxBP {
+  background-color: transparent;
+  height: auto;
+  left: 119px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  width: auto;
+}
+
+.registro-cliente-5 .group-232-dSjxBP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 66px;
+  position: absolute;
+  top: 610px;
+  width: 259px;
+}
+
+.registro-cliente-5 .rectangle-6-foslax {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.registro-cliente-5 .enviar-foslax {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.registro-cliente-5 .falta-poco-queremos-dSjxBP {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 131px;
+  width: 328px;
+}
+
+.registro-cliente-5 .etiquetas-dSjxBP {
+  background-color: transparent;
+  height: 38px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 281px;
+  width: 119px;
+}
+
+.registro-cliente-5 .rectangle-36-YFtOEH {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 119px;
+}
+
+.registro-cliente-5 .ecolgico-YFtOEH {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 119px;
+}
+
+.registro-cliente-5 .etiquetas-bnCzrg {
+  background-color: transparent;
+  height: 38px;
+  left: 153px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 281px;
+  width: 94px;
+}
+
+.registro-cliente-5 .rectangle-37-7M3g3x {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 94px;
+}
+
+.registro-cliente-5 .ropa-7M3g3x {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 94px;
+}
+
+.registro-cliente-5 .etiquetas-bSavaJ {
+  background-color: transparent;
+  height: 38px;
+  left: 254px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 281px;
+  width: 105px;
+}
+
+.registro-cliente-5 .rectangle-39-K16UrW {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 105px;
+}
+
+.registro-cliente-5 .bebidas-K16UrW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 105px;
+}
+
+.registro-cliente-5 .etiquetas-oCJpAx {
+  background-color: transparent;
+  height: 38px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 335px;
+  width: 96px;
+}
+
+.registro-cliente-5 .rectangle-39-bLEBGX {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 96px;
+}
+
+.registro-cliente-5 .comida-bLEBGX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 96px;
+}
+
+.registro-cliente-5 .rectangle-30-dSjxBP {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 44px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 214px;
+  width: 336px;
+}
+
+.registro-cliente-5 .escribe-etiquetas-dSjxBP {
+  background-color: transparent;
+  color: #00000099;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 227px;
+  width: 323px;
+}
+
+.registro-cliente-5 .etiquetas-xXTacS {
+  background-color: transparent;
+  height: 38px;
+  left: 144px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 335px;
+  width: 97px;
+}
+
+.registro-cliente-5 .rectangle-39-6S8g0d {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 97px;
+}
+
+.registro-cliente-5 .msica-6S8g0d {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 97px;
+}
+
+.registro-cliente-5 .etiquetas-B3usI4 {
+  background-color: transparent;
+  height: 38px;
+  left: 262px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 335px;
+  width: 97px;
+}
+
+.registro-cliente-5 .rectangle-39-yicETO {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 97px;
+}
+
+.registro-cliente-5 .joyera-yicETO {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 97px;
+}
+
+.registro-cliente-5 .etiquetas-S0BJYZ {
+  background-color: transparent;
+  height: 38px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 391px;
+  width: 97px;
+}
+
+.registro-cliente-5 .rectangle-39-Ci1ZLK {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 97px;
+}
+
+.registro-cliente-5 .bolsos-Ci1ZLK {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 97px;
+}
+
+.registro-cliente-5 .etiquetas-xxaMMi {
+  background-color: transparent;
+  height: 38px;
+  left: 262px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 390px;
+  width: 97px;
+}
+
+.registro-cliente-5 .rectangle-39-ppRtBl {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 97px;
+}
+
+.registro-cliente-5 .detalles-ppRtBl {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 97px;
+}
+
+.registro-cliente-5 .etiquetas-RTLlri {
+  background-color: transparent;
+  height: 38px;
+  left: 145px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 390px;
+  width: 97px;
+}
+
+.registro-cliente-5 .rectangle-39-SIrbHI {
+  background-color: var(--gray-icon);
+  border-radius: 7.5px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 97px;
+}
+
+.registro-cliente-5 .zapatos-SIrbHI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 97px;
+}

@@ -1,0 +1,712 @@
+/* screen - movimientos-1 */
+
+.movimientos-1 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.movimientos-1 .movimientos-cor91M {
+  background-color: transparent;
+  height: auto;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.movimientos-1 .vector-cor91M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 19px;
+  position: absolute;
+  top: 108px;
+  width: 9px;
+}
+
+.movimientos-1 .rectangle-8-cor91M {
+  background-color: transparent;
+  height: 72px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.movimientos-1 .status-bar-i-phone-13-13-pro-cor91M {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.movimientos-1 .indicators-EITbnC {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.movimientos-1 .elements-signal-Ifr3df {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.movimientos-1 .cellular-connection-nHvDAF {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.movimientos-1 .elements-connection-Ifr3df {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.movimientos-1 .wifi-jpVuD2 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.movimientos-1 .elements-battery-Ifr3df {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.movimientos-1 .border-EcDHMv {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.movimientos-1 .cap-EcDHMv {
+  background-color: transparent;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.movimientos-1 .capacity-EcDHMv {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.movimientos-1 .mic-cam-EITbnC {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.movimientos-1 .elements-time-EITbnC {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.movimientos-1 .time-ZpQxDz {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.movimientos-1 .rectangle-1325-cor91M {
+  background-color: #f2f6fa;
+  border-radius: 58px;
+  height: 31px;
+  left: 33px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 153px;
+  width: 329px;
+}
+
+.movimientos-1 .rectangle-1326-cor91M {
+  background-color: var(--cielo);
+  border-radius: 58px;
+  height: 27px;
+  left: 37px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 155px;
+  width: 110px;
+}
+
+.movimientos-1 .todo-cor91M {
+  background-color: transparent;
+  height: auto;
+  left: 71px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 158px;
+  width: 42px;
+}
+
+.movimientos-1 .pagos-cor91M {
+  background-color: transparent;
+  height: auto;
+  left: 171px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 158px;
+  width: 42px;
+}
+
+.movimientos-1 .donaciones-cor91M {
+  background-color: transparent;
+  height: auto;
+  left: 256px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 158px;
+  width: 82px;
+}
+
+.movimientos-1 .recibiste-180000-de-anitavergara-cor91M {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 230px;
+  width: auto;
+}
+
+.movimientos-1 .span0-nMaqLH {
+}
+
+.movimientos-1 .span1-nMaqLH {
+}
+
+.movimientos-1 .pagaste-12000-a-misbowlsss-cor91M {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 290px;
+  width: auto;
+}
+
+.movimientos-1 .span0-0OwxPL {
+}
+
+.movimientos-1 .span1-0OwxPL {
+}
+
+.movimientos-1 .recibiste-180000-de-alejandroppp-cor91M {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 350px;
+  width: auto;
+}
+
+.movimientos-1 .span0-BDEhHx {
+}
+
+.movimientos-1 .span1-BDEhHx {
+}
+
+.movimientos-1 .recibiste-60000-de-misbowlsss-cor91M {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 710px;
+  width: auto;
+}
+
+.movimientos-1 .span0-TMMoac {
+}
+
+.movimientos-1 .span1-TMMoac {
+}
+
+.movimientos-1 .hoy-cor91M {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 200px;
+  width: auto;
+}
+
+.movimientos-1 .ayer-cor91M {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 410px;
+  width: auto;
+}
+
+.movimientos-1 .viernes-cor91M {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 680px;
+  width: auto;
+}
+
+.movimientos-1 .el-22032022-a-las-2038-cor91M {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 311px;
+  width: auto;
+}
+
+.movimientos-1 .el-22032022-a-las-2038-uJGvXC {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 251px;
+  width: auto;
+}
+
+.movimientos-1 .el-22032022-a-las-2038-xFvdtH {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 371px;
+  width: auto;
+}
+
+.movimientos-1 .el-22032022-a-las-2038-UFQXX4 {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 731px;
+  width: auto;
+}
+
+.movimientos-1 .rectangle-1327-cor91M {
+  background-color: transparent;
+  height: 40px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 290px;
+  width: 40px;
+}
+
+.movimientos-1 .rectangle-16-cor91M {
+  background-color: transparent;
+  height: 40px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 230px;
+  width: 40px;
+}
+
+.movimientos-1 .group-353-cor91M {
+  background-color: transparent;
+  height: 40px;
+  left: 30px;
+  position: absolute;
+  top: 621px;
+  width: 293px;
+}
+
+.movimientos-1 .recibiste-120000-de-juanperez-yUHhrB {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.movimientos-1 .span0-Vonnmx {
+}
+
+.movimientos-1 .span1-Vonnmx {
+}
+
+.movimientos-1 .el-22032022-a-las-2038-yUHhrB {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.movimientos-1 .rectangle-1331-yUHhrB {
+  background-color: transparent;
+  height: 40px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 40px;
+}
+
+.movimientos-1 .rectangle-1329-cor91M {
+  background-color: transparent;
+  height: 40px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 350px;
+  width: 40px;
+}
+
+.movimientos-1 .rectangle-1328-cor91M {
+  background-color: transparent;
+  height: 40px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 710px;
+  width: 40px;
+}
+
+.movimientos-1 .group-356-cor91M {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 441px;
+  width: 299px;
+}
+
+.movimientos-1 .pagaste-350000-a-camiloduque-SNYwHa {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.movimientos-1 .span0-GQJEFe {
+}
+
+.movimientos-1 .span1-GQJEFe {
+}
+
+.movimientos-1 .el-22032022-a-las-2038-SNYwHa {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.movimientos-1 .rectangle-1328-SNYwHa {
+  background-color: transparent;
+  height: 40px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 40px;
+}
+
+.movimientos-1 .group-355-cor91M {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 501px;
+  width: 296px;
+}
+
+.movimientos-1 .pagaste-350000-a-lauracaotico-fuCnDE {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.movimientos-1 .span0-kddRsH {
+}
+
+.movimientos-1 .span1-kddRsH {
+}
+
+.movimientos-1 .el-22032022-a-las-2038-fuCnDE {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.movimientos-1 .rectangle-1329-fuCnDE {
+  background-color: transparent;
+  height: 40px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 40px;
+}
+
+.movimientos-1 .group-354-cor91M {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 561px;
+  width: 291px;
+}
+
+.movimientos-1 .pagaste-350000-a-juancaotico-FyuFNc {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.movimientos-1 .span0-ZRFvxD {
+}
+
+.movimientos-1 .span1-ZRFvxD {
+}
+
+.movimientos-1 .el-22032022-a-las-2038-FyuFNc {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.movimientos-1 .rectangle-1330-FyuFNc {
+  background-color: transparent;
+  height: 40px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 40px;
+}
+
+.movimientos-1 .nav-emprendimiento-cor91M {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.movimientos-1 .rectangle-1463-8PcRQq {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.movimientos-1 .union-8PcRQq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 226px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.movimientos-1 .union-qdhYji {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.movimientos-1 .union-iHBLXc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.movimientos-1 .union-YI7SXv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

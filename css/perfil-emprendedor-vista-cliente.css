@@ -1,0 +1,1063 @@
+/* screen - perfil-emprendedor-vista-cliente */
+
+.perfil-emprendedor-vista-cliente {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.perfil-emprendedor-vista-cliente .rectangle-8-Ghp33y {
+  background-color: transparent;
+  height: 72px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.perfil-emprendedor-vista-cliente .rectangle-16-Ghp33y {
+  background-color: transparent;
+  height: 67px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 97px;
+  width: 67px;
+}
+
+.perfil-emprendedor-vista-cliente .rectangle-18-Ghp33y {
+  background-color: var(--limon-osc);
+  border-radius: 40px;
+  height: 22px;
+  left: 75px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 22px;
+}
+
+.perfil-emprendedor-vista-cliente .blink-custom-jewels-Ghp33y {
+  background-color: transparent;
+  height: auto;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 101px;
+  width: auto;
+}
+
+.perfil-emprendedor-vista-cliente .blink-custom-jewels-xtareg {
+  background-color: transparent;
+  height: auto;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 123px;
+  width: auto;
+}
+
+.perfil-emprendedor-vista-cliente .cali-colombia-somos-Ghp33y {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  position: absolute;
+  text-align: left;
+  top: 185px;
+  width: 336px;
+}
+
+.perfil-emprendedor-vista-cliente .span0-91vASQ {
+}
+
+.perfil-emprendedor-vista-cliente .span1-91vASQ {
+}
+
+.perfil-emprendedor-vista-cliente .iconly-bold-location-Ghp33y {
+  background-color: transparent;
+  height: 16px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 186px;
+  width: 15px;
+}
+
+.perfil-emprendedor-vista-cliente .location-RMPRxo {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  position: relative;
+  top: 1px;
+  width: 11px;
+}
+
+.perfil-emprendedor-vista-cliente .location-uYJj0r {
+  background-color: transparent;
+  height: 13px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 11px;
+}
+
+.perfil-emprendedor-vista-cliente .x233-seguidores-Ghp33y {
+  background-color: transparent;
+  height: auto;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 143px;
+  width: auto;
+}
+
+.perfil-emprendedor-vista-cliente .span0-mlK6ES {
+}
+
+.perfil-emprendedor-vista-cliente .span1-mlK6ES {
+}
+
+.perfil-emprendedor-vista-cliente .star-1-Ghp33y {
+  background-color: transparent;
+  height: 11px;
+  left: 80px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 148px;
+  width: 11px;
+}
+
+.perfil-emprendedor-vista-cliente .group-268-Ghp33y {
+  background-color: transparent;
+  height: 11px;
+  left: 111px;
+  position: absolute;
+  top: 88px;
+  width: 95px;
+}
+
+.perfil-emprendedor-vista-cliente .usuario-verificado-xJPvoh {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.perfil-emprendedor-vista-cliente .group-267-xJPvoh {
+  background-color: transparent;
+  height: 9px;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+
+.perfil-emprendedor-vista-cliente .subtract-DgQSV3 {
+  background-color: transparent;
+  height: 9px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.perfil-emprendedor-vista-cliente .emprendedor-vista-cliente-Ghp33y {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 338px;
+  width: 390px;
+}
+
+.perfil-emprendedor-vista-cliente .vector-7-uwG1GL {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.perfil-emprendedor-vista-cliente .rectangle-1336-uwG1GL {
+  background-color: var(--white);
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-emprendedor-vista-cliente .iconly-bold-category-uwG1GL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 53px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 11px;
+  width: 23px;
+}
+
+.perfil-emprendedor-vista-cliente .category-TaZvgy {
+  background-color: transparent;
+  height: 20px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 19px;
+}
+
+.perfil-emprendedor-vista-cliente .category-tMtSXk {
+  background-color: transparent;
+  height: 20px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 19px;
+}
+
+.perfil-emprendedor-vista-cliente .vector-uwG1GL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 141px;
+  position: absolute;
+  top: 13px;
+  width: 21px;
+}
+
+.perfil-emprendedor-vista-cliente .icon-uwG1GL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: 232px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 11px;
+  width: 18px;
+}
+
+.perfil-emprendedor-vista-cliente .icon-BKyMzw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 317px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 24px;
+}
+
+.perfil-emprendedor-vista-cliente .status-bar-i-phone-13-13-pro-Ghp33y {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-emprendedor-vista-cliente .indicators-vFb4dJ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.perfil-emprendedor-vista-cliente .elements-signal-Tlt1Jh {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.perfil-emprendedor-vista-cliente .cellular-connection-WCAEEH {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.perfil-emprendedor-vista-cliente .elements-connection-Tlt1Jh {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.perfil-emprendedor-vista-cliente .wifi-AgHVxR {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.perfil-emprendedor-vista-cliente .elements-battery-Tlt1Jh {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.perfil-emprendedor-vista-cliente .border-SJ8m4t {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.perfil-emprendedor-vista-cliente .cap-SJ8m4t {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.perfil-emprendedor-vista-cliente .capacity-SJ8m4t {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.perfil-emprendedor-vista-cliente .mic-cam-vFb4dJ {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.perfil-emprendedor-vista-cliente .elements-time-vFb4dJ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.perfil-emprendedor-vista-cliente .time-5WHm1z {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.perfil-emprendedor-vista-cliente .group-261-Ghp33y {
+  background-color: transparent;
+  height: 38px;
+  left: 36px;
+  position: absolute;
+  top: 277px;
+  width: 145px;
+}
+
+.perfil-emprendedor-vista-cliente .rectangle-6-G9NRWL {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 145px;
+}
+
+.perfil-emprendedor-vista-cliente .enviar-G9NRWL {
+  background-color: transparent;
+  height: 38px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 125px;
+}
+
+.perfil-emprendedor-vista-cliente .group-273-Ghp33y {
+  background-color: transparent;
+  height: 38px;
+  left: 206px;
+  position: absolute;
+  top: 277px;
+  width: 145px;
+}
+
+.perfil-emprendedor-vista-cliente .rectangle-6-XqYN2P {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 145px;
+}
+
+.perfil-emprendedor-vista-cliente .enviar-XqYN2P {
+  background-color: transparent;
+  height: 38px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 125px;
+}
+
+.perfil-emprendedor-vista-cliente .donar-Ghp33y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 215px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 276px;
+  width: 125px;
+}
+
+.perfil-emprendedor-vista-cliente .frame-88-Ghp33y {
+  background-color: transparent;
+  height: 374px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 395px;
+  width: 390px;
+}
+
+.perfil-emprendedor-vista-cliente .contenido-4e6bZt {
+  background-color: transparent;
+  border-radius: 7.42px;
+  height: 241px;
+  left: 200px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-emprendedor-vista-cliente .contenido-oN5NxS {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-emprendedor-vista-cliente .group-244-oN5NxS {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-emprendedor-vista-cliente .rectangle-54-8vGaHp {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-emprendedor-vista-cliente .group-243-oN5NxS {
+  background-color: transparent;
+  height: 41px;
+  left: 11px;
+  position: absolute;
+  top: 193px;
+  width: 159px;
+}
+
+.perfil-emprendedor-vista-cliente .view-x8PVS5 {
+  background-color: transparent;
+  height: 12px;
+  left: 1px;
+  position: absolute;
+  top: 28px;
+  width: 13px;
+}
+
+.perfil-emprendedor-vista-cliente .intersect-e4cuk2 {
+  background-color: transparent;
+  height: 9px;
+  left: -1px;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.perfil-emprendedor-vista-cliente .ellipse-31-e4cuk2 {
+  background-color: transparent;
+  border-radius: 2.19px/2.05px;
+  height: 4px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.perfil-emprendedor-vista-cliente .x1029-x8PVS5 {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 27px;
+  width: auto;
+}
+
+.perfil-emprendedor-vista-cliente .x913-x8PVS5 {
+  background-color: transparent;
+  height: auto;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 27px;
+  width: auto;
+}
+
+.perfil-emprendedor-vista-cliente .vengan-a-probar-anitasbowls-x8PVS5 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 153px;
+}
+
+.perfil-emprendedor-vista-cliente .heart-oN5NxS {
+  background-color: transparent;
+  height: 10px;
+  left: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 220px;
+  width: 12px;
+}
+
+.perfil-emprendedor-vista-cliente .contenido-rA9paa {
+  background-color: #00000033;
+  border-radius: 7.42px;
+  height: 241px;
+  left: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-emprendedor-vista-cliente .contenido-TMSXMu {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-emprendedor-vista-cliente .group-244-TMSXMu {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-emprendedor-vista-cliente .group-243-TMSXMu {
+  background-color: transparent;
+  height: 41px;
+  left: 11px;
+  position: absolute;
+  top: 193px;
+  width: 159px;
+}
+
+.perfil-emprendedor-vista-cliente .view-6BoIY1 {
+  background-color: transparent;
+  height: 12px;
+  left: 1px;
+  position: absolute;
+  top: 28px;
+  width: 13px;
+}
+
+.perfil-emprendedor-vista-cliente .intersect-nqXCxN {
+  background-color: transparent;
+  height: 9px;
+  left: -1px;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.perfil-emprendedor-vista-cliente .ellipse-31-nqXCxN {
+  background-color: transparent;
+  border-radius: 2.19px/2.05px;
+  height: 4px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.perfil-emprendedor-vista-cliente .x1029-6BoIY1 {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 27px;
+  width: auto;
+}
+
+.perfil-emprendedor-vista-cliente .x913-6BoIY1 {
+  background-color: transparent;
+  height: auto;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 27px;
+  width: auto;
+}
+
+.perfil-emprendedor-vista-cliente .vengan-a-probar-anitasbowls-6BoIY1 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 153px;
+}
+
+.perfil-emprendedor-vista-cliente .heart-TMSXMu {
+  background-color: transparent;
+  height: 10px;
+  left: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 220px;
+  width: 12px;
+}
+
+.perfil-emprendedor-vista-cliente .group-272-4e6bZt {
+  background-color: transparent;
+  border-radius: 7.4px;
+  height: 241px;
+  left: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 178px;
+}
+
+.perfil-emprendedor-vista-cliente .group-272-f9hOXv {
+  background-color: transparent;
+  height: 124px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-emprendedor-vista-cliente .group-244-f9hOXv {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-emprendedor-vista-cliente .rectangle-54-1NM2pk {
+  background-color: transparent;
+  height: 124px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 178px;
+}
+
+.perfil-emprendedor-vista-cliente .group-243-f9hOXv {
+  background-color: transparent;
+  height: 57px;
+  left: 11px;
+  position: absolute;
+  top: 177px;
+  width: 159px;
+}
+
+.perfil-emprendedor-vista-cliente .view-t2XG27 {
+  background-color: transparent;
+  height: 12px;
+  left: 1px;
+  position: absolute;
+  top: 44px;
+  width: 13px;
+}
+
+.perfil-emprendedor-vista-cliente .intersect-D4TaBu {
+  background-color: transparent;
+  height: 1px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.perfil-emprendedor-vista-cliente .ellipse-31-D4TaBu {
+  background-color: transparent;
+  border-radius: 2.19px/2.05px;
+  height: 4px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.perfil-emprendedor-vista-cliente .x1029-t2XG27 {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  width: auto;
+}
+
+.perfil-emprendedor-vista-cliente .x913-t2XG27 {
+  background-color: transparent;
+  height: auto;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  width: auto;
+}
+
+.perfil-emprendedor-vista-cliente .vengan-a-probar-anitasbowls-t2XG27 {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 153px;
+}
+
+.perfil-emprendedor-vista-cliente .heart-f9hOXv {
+  background-color: transparent;
+  height: 1px;
+  left: 78px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 226px;
+  width: 1px;
+}
+
+.perfil-emprendedor-vista-cliente .group-271-4e6bZt {
+  background-color: transparent;
+  border-radius: 7.44px;
+  height: 241px;
+  left: 200px;
+  position: absolute;
+  top: 250px;
+  width: 178px;
+}
+
+.perfil-emprendedor-vista-cliente .group-244-mWeoO9 {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-emprendedor-vista-cliente .rectangle-54-5CbvKv {
+  background-color: transparent;
+  height: 124px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 178px;
+}
+
+.perfil-emprendedor-vista-cliente .group-243-mWeoO9 {
+  background-color: transparent;
+  height: 41px;
+  left: 11px;
+  position: absolute;
+  top: 193px;
+  width: 159px;
+}
+
+.perfil-emprendedor-vista-cliente .view-9Mpkx9 {
+  background-color: transparent;
+  height: 12px;
+  left: 1px;
+  position: absolute;
+  top: 28px;
+  width: 13px;
+}
+
+.perfil-emprendedor-vista-cliente .intersect-vVYvxS {
+  background-color: transparent;
+  height: 1px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.perfil-emprendedor-vista-cliente .ellipse-31-vVYvxS {
+  background-color: transparent;
+  border-radius: 2.19px/2.04px;
+  height: 4px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.perfil-emprendedor-vista-cliente .x1029-9Mpkx9 {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 27px;
+  width: auto;
+}
+
+.perfil-emprendedor-vista-cliente .x913-9Mpkx9 {
+  background-color: transparent;
+  height: auto;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 27px;
+  width: auto;
+}
+
+.perfil-emprendedor-vista-cliente .vengan-a-probar-anitasbowls-9Mpkx9 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 153px;
+}
+
+.perfil-emprendedor-vista-cliente .heart-mWeoO9 {
+  background-color: transparent;
+  height: 1px;
+  left: 78px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 226px;
+  width: 1px;
+}
+
+.perfil-emprendedor-vista-cliente .nav-client-Ghp33y {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.perfil-emprendedor-vista-cliente .rectangle-1462-niK6ZK {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-emprendedor-vista-cliente .union-niK6ZK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.perfil-emprendedor-vista-cliente .union-cb0n0k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.perfil-emprendedor-vista-cliente .union-HOcGur {
+  background-color: transparent;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.perfil-emprendedor-vista-cliente .union-6b4Nxj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.perfil-emprendedor-vista-cliente .union-xUGjZ9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
